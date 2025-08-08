@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <record id="library_book_category" model="model_name">
+        <field name="_name">library.book.category</field>
+        <field name="_description">Library Book Category</field>
+    </record>
+</odoo>
